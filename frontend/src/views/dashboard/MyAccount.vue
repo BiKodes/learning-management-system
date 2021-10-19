@@ -12,7 +12,7 @@
             @click.prevent="logout()"
             class="button is-danger"
         >
-            Log out
+            Log out 
         </button>
     </section>   
   </div>
@@ -21,7 +21,7 @@
 <script>
 import axios from 'axios'
 
-export default {
+export default { 
     name: 'MyAccount',
 
     methods: {
