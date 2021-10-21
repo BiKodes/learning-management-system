@@ -30,7 +30,7 @@
 
                     <div class="column is-10">
                         <div class="columns is-multiline">
-                            <div class="column is-4">
+                            <!-- <div class="column is-4">
                                 <div class="card">
                                     <div class="card-image">
                                         <figure class="image is-4by3">
@@ -127,7 +127,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div 
                                 class="column is-4"
